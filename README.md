@@ -1,11 +1,4 @@
-**Expiry\_Genie – Smart Expiry Date Tracker**
-An Android app developed in **Java with Gradle**, designed to help users track product expiry dates efficiently. It sends **timely reminders** and helps manage perishable items to reduce waste.
 
----
-
-### **README.md**
-
-````markdown
 # Expiry_Genie – Smart Expiry Date Tracker 📅
 
 [![Java](https://img.shields.io/badge/Java-100%25-orange)]()
