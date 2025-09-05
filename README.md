@@ -52,8 +52,3 @@ cd Expiry_Genie
 * Barcode scanning for quick entry
 
 ---
-2. **Write a resume-friendly version for this project (2–3 lines)?**  
-3. **Give you commands to update your GitHub README.md directly?**
-
-Which one should I do next?
-```
